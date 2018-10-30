@@ -1,0 +1,52 @@
+{
+  "name": "PearSpikeBot2",
+  "padlock": "Ualkg33f9XLDGZEu1hirGw==!VRazhW1QKB8S3NS4iAbPf/cw+XURH19QBj726HR9Ww8+wpgRtVj8Jcx9Fsw0cUsP",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "1dff89d7-70a7-4a42-b822-1e9f182358df",
+      "subscriptionId": "094baad9-2640-4bcc-9c08-45925ef62cd5",
+      "resourceGroup": "PearSpikeBot",
+      "serviceName": "PearSpikeBot2",
+      "type": "abs",
+      "name": "PearSpikeBot2",
+      "id": "1"
+    },
+    {
+      "connectionString": "DOliB3igNX9l9JuOQKfyAw==!79/Y9XuxhEtxYAC+yKeUWIXKSDFsYZwy8E7YzP7NGZweiPbFRuktz17jjTH1GpNQiN3zKHxMQuKsF84WRIo5Zk+CSMT3u9bZgezykl8PSiNw12u8WJ5Amt50ACQSt50AY9h/+2nr1YRjUnpw/qDJ4cOsfb3VcGOUBrbsFWNPk/s5xRaSYitsyDgLmk4UeVKDfb6g7iw7ZMGVBeLLx99lQh5ok1OFZVpmZ0KOf1EUsj4=",
+      "tenantId": "1dff89d7-70a7-4a42-b822-1e9f182358df",
+      "subscriptionId": "094baad9-2640-4bcc-9c08-45925ef62cd5",
+      "resourceGroup": "PearSpikeBot",
+      "serviceName": "pearspikebot2907a",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "090fa7f8-9100-4a2a-b231-0411310591b5",
+      "appPassword": "P7C6FIBKmWNHVRwVTUhyQg==!QQkx8xpOXL6+LynGGEW6dglg48bwcJNyKtLlApiGATY=",
+      "endpoint": "https://pearspikebot2.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "GPkQoYgW98jOWVuEtCm7AQ==!zJu1iZ9H2JQ+0iJ1QSEKz+5aKxnjecltAC9gJAUaIfn1qq1ry7B0cxRl8aoJxFBW",
+      "applicationId": "6f077935-740b-4a10-a594-f8967ee718d5",
+      "apiKeys": {},
+      "tenantId": "1dff89d7-70a7-4a42-b822-1e9f182358df",
+      "subscriptionId": "094baad9-2640-4bcc-9c08-45925ef62cd5",
+      "resourceGroup": "PearSpikeBot",
+      "serviceName": "PearSpikeBot2rne2ka",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
